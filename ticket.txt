@@ -1,14 +1,14 @@
       EMEB TOTEM VENDAS
 ------------------------------
 PEDIDO: PED-TESTE-999
-DATA  : 2/28/2026, 4:08:19 PM
+DATA  : 28/02/2026, 16:18:09
 ------------------------------
-1x Cafe            R$ NaN
+1x Cafe            R$ 1.50
 ------------------------------
 TOTAL PAGO: R$ 1.50
 
    OBRIGADO PELA COMPRA!
-ID: 1772305699455
+ID: 1772306289801
 
 
 
