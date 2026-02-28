@@ -1,1 +1,13 @@
-TESTE FINAL IMPRESSORA
+      EMEB TOTEM VENDAS
+------------------------------
+PEDIDO: undefined
+DATA  : 2/28/2026, 3:34:37 PM
+------------------------------
+1x PRODUTO DIVERSOS         R$ NaN
+------------------------------
+TOTAL PAGO: R$ NaN
+
+   OBRIGADO PELA COMPRA!
+
+
+
