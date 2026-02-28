@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDV EMEB - Teste de Impressão</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 20px; background-color: #f4f4f9; }
+        .card { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); max-width: 400px; margin: 0 auto; }
+        button { width: 100%; padding: 15px; margin: 10px 0; font-size: 18px; border-radius: 10px; border: none; cursor: pointer; font-weight: bold; }
+        .btn-blue { background-color: #007bff; color: white; }
+        .btn-green { background-color: #28a745; color: white; }
+        #status { margin-top: 15px; font-size: 14px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>EMEB - Teste Totem</h2>
+    <div id="status" style="color: orange;">Aguardando Conexão...</div>
+    
+    <button class="btn-blue" onclick="conectar()">1. Conectar Bluetooth</button>
+    <button class="btn-green" onclick="imprimir()">2. Imprimir Ticket Teste</button>
+</div>
+
+<script>
+    let caracteristica;
+
+    // UUIDs padrão para impressoras térmicas (Causa raiz da comunicação)
+    const SERVICE_UUID = '000018f0-0000-1000-8000-00805f9b34fb';
+    const CHARACTERISTIC_UUID = '00002af1-0000-1000-8000-00805f9b34fb';
+
+    async function conectar() {
+        const statusDiv = document.getElementById('status');
+        try {
+            statusDiv.innerText = "Buscando dispositivo...";
+            const dispositivo = await navigator.bluetooth.requestDevice({
+                filters: [{ services: [SERVICE_UUID] }]
+            });
+
+            statusDiv.innerText = "Conectando...";
+            const servidor = await dispositivo.gatt.connect();
+            const servico = await servidor.getPrimaryService(SERVICE_UUID);
+            caracteristica = await servico.getCharacteristic(CHARACTERISTIC_UUID);
+
+            statusDiv.innerText = "✅ Conectado: " + dispositivo.name;
+            statusDiv.style.color = "green";
+        } catch (error) {
+            statusDiv.innerText = "❌ Erro: " + error.message;
+            statusDiv.style.color = "red";
+        }
+    }
+
+    async function imprimir() {
+        if (!caracteristica) {
+            alert("Por favor, conecte a impressora primeiro!");
+            return;
+        }
+
+        // Comando simples de texto + quebra de linha (LF)
+        const texto = "EMEB - IMPRESSAO OK\n-------------------\nTESTE DE SISTEMA\n\n\n\n";
+        const encoder = new TextEncoder();
+        const dados = encoder.encode(texto);
+
+        try {
+            await caracteristica.writeValue(dados);
+            console.log("Comando enviado com sucesso!");
+        } catch (error) {
+            alert("Erro ao imprimir: " + error.message);
+        }
+    }
+</script>
+
+</body>
+</html>
