@@ -1,13 +1,14 @@
       EMEB TOTEM VENDAS
 ------------------------------
 PEDIDO: undefined
-DATA  : 2/28/2026, 3:34:37 PM
+DATA  : 2/28/2026, 3:48:20 PM
 ------------------------------
 1x PRODUTO DIVERSOS         R$ NaN
 ------------------------------
 TOTAL PAGO: R$ NaN
 
    OBRIGADO PELA COMPRA!
+ID: 1772304500717
 
 
 
