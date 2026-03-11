@@ -1,0 +1,18 @@
+      EMEB APARECIDA
+    TOTEM DE VENDAS PRO
+------------------------------
+DATA: 11/03/2026 16:59:06
+PEDIDO: E06859638
+------------------------------
+QTD  PRODUTO          PRECO
+2x  Leite            R$ 0.02
+------------------------------
+TOTAL PAGO:         R$ 0.02
+------------------------------
+
+    OBRIGADO E BOM APETITE!
+
+
+
+
+
