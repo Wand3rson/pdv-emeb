@@ -1,0 +1,19 @@
+      EMEB APARECIDA
+    TOTEM DE VENDAS PRO
+------------------------------
+DATA: 11/03/2026 09:03:15
+PEDIDO: E23874501
+------------------------------
+QTD  PRODUTO          PRECO
+1x  Leite            R$ 0.01
+1x  Cural            R$ 8.00
+------------------------------
+TOTAL PAGO:         R$ 8.01
+------------------------------
+
+    OBRIGADO E BOM APETITE!
+
+
+
+
+
