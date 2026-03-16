@@ -1,6 +1,3 @@
-Emeb Aparecida Merino Elias
-PEDIDO: E766133
---------------------------
-2x Leite
---------------------------
-TOTAL: R$ 0.02
+ID: E120598
+1x Leite
+TOTAL: R$ 0.01
