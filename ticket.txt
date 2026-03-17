@@ -1,7 +1,7 @@
 Emeb Aparecida
-ID: E96662811
+ID: E826644
 ------------------
-1x Leite
-2x Cural
+1x Café
+1x Cachorro-quente
 ------------------
-TOTAL: R$ 16.01
+TOTAL: R$ 9.50
