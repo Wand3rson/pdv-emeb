@@ -1,6 +1,8 @@
 Emeb Aparecida
-ID: PED-1773700953857
+ID: PED-1773700216390
 ------------------
-1x Leite
+2x Leite
+2x Cural
+2x Milho
 ------------------
-TOTAL: R$ 0.01
+TOTAL: R$ 30.02
