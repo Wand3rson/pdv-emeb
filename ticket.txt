@@ -1,7 +1,6 @@
 Emeb Aparecida
-ID: E826644
+ID: PED-1773700953857
 ------------------
-1x Café
-1x Cachorro-quente
+1x Leite
 ------------------
-TOTAL: R$ 9.50
+TOTAL: R$ 0.01
