@@ -1,1 +1,4 @@
 Suco: 1
+Pastel: 2
+Pamonha: 2
+Refrigerante: 2
