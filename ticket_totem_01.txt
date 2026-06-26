@@ -7,11 +7,12 @@ a ==========================
  ! CHURRASCO
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -20,11 +21,12 @@ UNIDADE:1
  ! CHURRASCO
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:2
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -33,11 +35,12 @@ UNIDADE:2
  ! CHURRASCO
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:3
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -46,11 +49,12 @@ UNIDADE:3
  ! REFRIGERANTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -59,11 +63,12 @@ UNIDADE:1
  ! REFRIGERANTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:2
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -72,11 +77,12 @@ UNIDADE:2
  ! REFRIGERANTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:3
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -85,11 +91,12 @@ UNIDADE:3
  ! REFRIGERANTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:4
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -98,11 +105,12 @@ UNIDADE:4
  ! REFRIGERANTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:5
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -111,37 +119,40 @@ UNIDADE:5
  ! PIPOCA
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
 ==========================
 
- ! BRINQUEDO INFL?VEL
+ ! BRINQUEDO INFLÁVEL
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
 ==========================
 
- ! BRINQUEDO INFL?VEL
+ ! BRINQUEDO INFLÁVEL
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:2
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -150,11 +161,12 @@ UNIDADE:2
  ! PASTEL
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -163,11 +175,12 @@ UNIDADE:1
  ! PASTEL
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:2
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -176,11 +189,12 @@ UNIDADE:2
  ! CACHORRO QUENTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:1
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -189,11 +203,12 @@ UNIDADE:1
  ! CACHORRO QUENTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:2
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -202,11 +217,12 @@ UNIDADE:2
  ! CACHORRO QUENTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:3
 
 ==========================
-||| a ==========================
+
+a ==========================
   * REIMPRESSAO ADM *
   EMEB APARECIDA
     MERINO ELIAS
@@ -215,7 +231,7 @@ UNIDADE:3
  ! CACHORRO QUENTE
 
 ID:E732586
-DATA:25/06/2026 17:13
+DATA:26/06/2026 02:04
 UNIDADE:4
 
 ==========================
